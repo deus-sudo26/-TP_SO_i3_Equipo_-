@@ -1,0 +1,7 @@
+el master queda con los archivos de ambas ramas.
+si,beta pudo ver los cambios realizados.
+para hacer el merge tuve que hacer primero el git pull de la rama original,para descargar las ramas y poder acceder a ellas, luego hacer el git merge de la rama para integrarla al main.
+
+
+las ramas creadas quedan con los datos actualizados.
+los problemas que hubo fue el cambiar entre ramas para hacer las modificaciones, porque desde la rama main no aparecian los archivos pero cuando cambias de rama aparecen en la carpeta. despues hacer el push y cambiar de rama para hacer el pull para ttraer las nuevas ramas. hacer el merge dentro del main, el merge es de la rama que queres integrar.
