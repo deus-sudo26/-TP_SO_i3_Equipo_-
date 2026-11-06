@@ -1,0 +1,9 @@
+elias escalante
+11;00
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2802:8010:213e:8801:debd:b04e:d546:2a6a
+   Vínculo: dirección IPv6 local. . . : fe80::458e:bdf5:edc3:a05c%10
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.37
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::8ade:7cff:fe5b:3bb0%10
+                                       192.168.1.1
