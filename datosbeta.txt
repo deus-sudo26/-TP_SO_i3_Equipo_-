@@ -7,3 +7,12 @@ elias escalante
    Máscara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : fe80::8ade:7cff:fe5b:3bb0%10
                                        192.168.1.1
+Uriel Escalante 
+11:02
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2802:8010:213e:8801:944:ec7b:5f5b:769a
+   Dirección IPv6 temporal. . . . . . : 2802:8010:213e:8801:c494:a699:145a:f284
+   Vínculo: dirección IPv6 local. . . : fe80::3cb3:7521:9e36:816c%15
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.38
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::8a
